@@ -1,0 +1,12 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+}
+.section-title {
+  margin-top: 60px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.project-card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
